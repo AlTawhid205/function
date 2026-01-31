@@ -8,7 +8,9 @@ function vatKhaw(){
 
 
 
-function add(number,){
-
+function add(a,b,c,d,e){
+  const total= a+b+c+d+e;
+  console.log(total);
 }
-add();
+add(1,2,3,4,5);
+
